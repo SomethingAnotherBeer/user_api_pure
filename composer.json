@@ -1,0 +1,17 @@
+{
+  "name": "eugene/user_api_one",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Eugene Zarianski",
+      "email": "eugene@somemail.com"
+    }
+  ],
+  "require": {
+    "nikic/fast-route": "^1.3"
+  }
+}
